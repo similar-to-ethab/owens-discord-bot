@@ -1,0 +1,28 @@
+{
+  "name": "owens-discord-bot",
+  "version": "1.0.0",
+  "description": "fuck you owen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/similar-to-ethab/owens-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "role",
+    "bot",
+    "js"
+  ],
+  "author": "similartoethab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/similar-to-ethab/owens-discord-bot/issues"
+  },
+  "homepage": "https://github.com/similar-to-ethab/owens-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
